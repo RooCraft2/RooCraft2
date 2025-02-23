@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm RooCraft2
 
-<!--
-**RooCraft2/RooCraft2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a devloper who likes doing code and stuff.
+I am a socilist praise r mao zedong 
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Java, Verse, Python, C++, HTML, Javascript
+- **Frameworks**: Node.js
+- **Tools**: Git
+
+## 📈 GitHub Stats
+![RooCraft2's GitHub stats](https://github-readme-stats.vercel.app/api?username=RooCraft2&show_icons=true&theme=radical)
+
+
+## 🌱 Currently Learning
+- C++, Unreal Engine, Java
+
+## 🎯 Goals for 2025
+- Make a game in Unreal Engine
+- Learn a new programming language
+
+## 💬 Let's Connect!
+Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi!
+Discord: roocraft
