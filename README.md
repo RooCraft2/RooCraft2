@@ -2,7 +2,6 @@
 
 ## About Me
 I'm a devloper who likes doing code and stuff.
-I am a socilist praise r mao zedong 
 
 ## 🛠️ Technologies & Tools
 
