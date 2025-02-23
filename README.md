@@ -1,7 +1,7 @@
 # 👋 Hi, I'm RooCraft2
 
 ## About Me
-I'm a devloper who likes doing code and stuff.
+I'm a developer who likes doing code and stuff.
 
 ## 🛠️ Technologies & Tools
 
@@ -21,5 +21,5 @@ I'm a devloper who likes doing code and stuff.
 - Learn a new programming language
 
 ## 💬 Let's Connect!
-Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi!
-Discord: roocraft
+- Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi!
+- Discord: roocraft
